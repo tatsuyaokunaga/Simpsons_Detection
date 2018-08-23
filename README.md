@@ -1,3 +1,3 @@
 # Simpsons_Detection
 
-##  keras 2.1.6
+keras v2.1.6,Tensorflow v1.8.0,OpenCV v3.4.1
