@@ -5,7 +5,7 @@ For more details, please refer to [arXiv paper](http://arxiv.org/abs/1512.02325)
 For training procedure for 300x300 model, please, follow `SSD_simpthons_training.ipynb` for examples. 
 
 If you run `videotest_example.py` file, Simpsons movie file (001.mp4) will be played and character will be detected.  
-Please execute  
+Execute  
 `$python videotest_example.py`  
 code at terminal.
 
