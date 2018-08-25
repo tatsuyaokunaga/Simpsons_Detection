@@ -2,6 +2,11 @@
 
 
 For more details, please refer to [arXiv paper](http://arxiv.org/abs/1512.02325).
-For training procedure for 300x300 model, please, follow `SSD_simpthons_training.ipynb` for examples. Moreover, `videotest_example.py` file is a useful script to test `SSD` on video or on camera input.
+For training procedure for 300x300 model, please, follow `SSD_simpthons_training.ipynb` for examples. 
+
+If you run `videotest_example.py` file, Simpsons movie file (001.mp4) will be played and character will be detected.  
+Please execute  
+`$python videotest_example.py`  
+code at terminal.
 
 This code was tested with `Keras` v2.1.6,`Tensorflow` v1.8.0,`OpenCV` v3.4.1
