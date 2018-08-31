@@ -9,4 +9,4 @@ Execute
 `$python videotest_example.py`  
 code at terminal.
 
-This code was tested with `Keras` v2.1.6,`Tensorflow` v1.8.0,`OpenCV` v3.4.1
+This code was tested with `Keras` v2.2.0,`Tensorflow` v1.8.0,`OpenCV` v3.4.1
